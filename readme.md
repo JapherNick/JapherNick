@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Nicholas Cunha!
 👨‍🎓 Hoje estou estudando diversos cursos na Udemy como: Banco de Dados completo, lógica de programação(C,C++,C#,Java e Python), Inglês e também desenvolvimento Web Completo(JavaScript, HTML, CSS, Bootstrap, Angular, MongoDB etc..)
-🤵 Hoje trabalho como Analista de Suporte porém estudando para começar na área.
-👨 Pronome: Ele/Dele.
+🤵 Hoje estou em busca da primeira oportunidade como DEV!
+
 <div align="center">
   <a href="https://https://github.com/JapherNick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JapherNick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
